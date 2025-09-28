@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Ali
 
-🚀 Builder • Software Engineer • Data Engineer • Micro-SaaS Hacker • Full-Stack Dev • Hardware Engineer • AI/ML Explorer • QA Engineer 
+🚀 Builder • Software Engineer • Data Engineer • Micro-SaaS Hacker • Full-Stack Dev • Hardware Engineer • AI/ML Builder • QA Engineer 
 
 I transform ideas into scalable products — from real estate automation and financial & healthcare data pipelines to microservices and AI-powered apps. Always building, always evolving.
 
