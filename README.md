@@ -51,20 +51,35 @@ I transform ideas into scalable products — from real estate automation and fin
 
 ---
 
+---
+
 ## 🌍 Beyond Code
-🏗️ Building properties in Florida (CBS walls, tie beams, hurricane straps — the real deal)  
-🎌 Traveling (Japan trip 2025: Tokyo → Fuji → Kyoto)  
-📈 Always hunting for micro-SaaS + AI/LLM ideas that scale  
+🏗️ **Real Estate & Construction** — Actively building and managing properties in Florida, from **CBS masonry walls and tie beams** to **hurricane-ready truss systems**. Hands-on with engineers, inspectors, and subcontractors to ensure every project is up to code and built to last.  
+
+🎌 **Travel & Culture** — Exploring the world one trip at a time. Next stop: **Japan 2025** 🇯🇵 (Tokyo → Mt. Fuji → Kyoto), chasing cherry blossoms, temples, and tech culture. Travel fuels my creativity and broadens my perspective.  
+
+📈 **Entrepreneurship & Innovation** — Constantly experimenting with **micro-SaaS ventures, AI/ML prototypes, and LLM-powered apps**. Obsessed with finding scalable ideas that merge automation, data, and real-world impact.  
+
+🤝 **Collaboration & Community** — Whether it’s working with builders onsite, engineers in data pipelines, or developers in open source, I thrive in team environments where ideas turn into shipped products.  
+
+---
+
 
 ---
 
 ## 📊 GitHub Stats
-![Ali’s GitHub stats](https://github-readme-stats.vercel.app/api?username=amahmood561&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amahmood561&layout=compact&theme=radical)  
 
-You can check out my full contribution graph here:  
+![Ali’s GitHub stats](https://github-readme-stats.vercel.app/api?username=amahmood561&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amahmood561&layout=compact&theme=radical)  
+
+---
+
+## 📈 Contributions
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=amahmood561&theme=github-dark&hide_border=false)  
 ![Contribution Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=amahmood561&theme=github-compact)  
+
+
 ---
 
 ## 📫 Connect
