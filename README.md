@@ -86,7 +86,9 @@ _Last Updated: Sun Sep 28 21:25:01 UTC 2025_
 - 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
 - 🐦 [Twitter](https://twitter.com/YOURHANDLE)  
 - 🌐 [Website/Blog](https://YOURDOMAIN.com)  
+- ✍️ [Medium](https://medium.com/@amahmood561)  
 
 ---
+
 
 ⭐ **“Ship fast. Learn faster. Own the outcome.”**
