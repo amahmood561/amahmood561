@@ -27,7 +27,8 @@ I transform ideas into scalable products — from real estate automation and fin
 - **Healthcare & Financial Data Ingestion:** Automated ETL pipelines for patient records, billing, and financial data → Redshift/DBT + Salesforce integration 🏥💳  
 
 ### 🤖 AI / ML / LLM
-- **Insurance Data Classifier:** ML model for categorizing unstructured insurance documents (policies, claims, billing) using RandomForest & Transformers 📂  
+- **Pharmacy Prescription Classifier:** AI/ML model for organizing unstructured pharmacy data (prescriptions, dosage instructions, billing records) using Transformers + RandomForest.  
+  Integrated with robotic dispensing workflows to improve accuracy, reduce handling errors, and accelerate automated fulfillment 💊🤖  
 - **Healthcare Chatbot:** LLM-powered assistant for patient billing + FAQs, built with LangChain + OpenAI API 💬  
 - **ETL Smart Mapper:** AI-driven tool to auto-map CSV/JSON fields into normalized schemas (dbt/Redshift) using embeddings 🔍  
 - **RAG Pipeline Demo:** Retrieval-Augmented Generation pipeline for querying financial & healthcare docs with context-aware answers 📚  
