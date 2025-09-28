@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # runs daily at 6 AM UTC
+  workflow_dispatch:      # allows manual run too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update README with stats
+        run: |
+          echo "## 📊 GitHub Stats (Auto Updated)" > README.md
+          echo "" >> README.md
+          echo "![Stats](https://github-readme-stats.vercel.app/api?username=amahmood561&show_icons=true&theme=radical)" >> README.md
+          echo "" >> README.md
+          echo "![Streak](https://streak-stats.demolab.com/?user=amahmood561&theme=radical&hide_border=false)" >> README.md
+          echo "" >> README.md
+          echo "Last Updated: $(date)" >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "github-actions"
+          git add README.md
+          git commit -m "chore: auto-update README with stats"
+          git push
