@@ -32,7 +32,8 @@ I transform ideas into scalable products — from **real estate automation** and
 - **Healthcare Chatbot:** LLM-powered assistant for patient billing & FAQs, built with LangChain + OpenAI API 💬  
 - **ETL Smart Mapper:** AI-driven system to auto-map CSV/JSON fields into normalized schemas (dbt/Redshift) using embeddings 🔍  
 - **RAG Pipeline Demo:** Retrieval-Augmented Generation pipeline for querying healthcare & financial docs 📚  
-- **Fine-Tuning Experiments:** Custom LLM tuning on domain-specific datasets 🧠  
+- **Fine-Tuning Experiments:** Custom LLM tuning on domain-specific datasets 🧠
+- **[seo agent](https://github.com/amahmood561/seo-agent-handler):** seo agent:** Custom seo management tool has all commands built out for agent's to use
 
 ### 🛠️ Hardware / IoT
 - **ESP32 Smart Sensor Hub:** MicroPython hub collecting temp/humidity + streaming to FastAPI backend 🌡️  
