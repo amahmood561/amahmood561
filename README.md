@@ -19,9 +19,9 @@ I transform ideas into scalable products — from **real estate automation** and
 ## 🔥 Current Projects
 
 ### 💻 Software / Micro-SaaS
-- **[Extracto](https://github.com/ali/extracto):** Google-Sheets-to-DB ETL ⚡  
-- **[Invoice-Factory](https://github.com/ali/invoice-factory):** PDF invoice generator 🧾  
-- **[Revealify](https://github.com/ali/revealify):** Smart URL expander 🔗  
+- **[Extracto](https://github.com/amahmood561/extracto):** Google-Sheets-to-DB ETL ⚡  
+- **[Invoice-Factory](https://github.com/amahmood561/invoice-factory):** PDF invoice generator 🧾  
+- **[Revealify](https://github.com/amahmood561/revealify):** Smart URL expander 🔗  
 - **Go Performance Monitoring Toolkit:** Ops & dashboards for performance tracking 📊  
 - **CSV Profiler SaaS:** API + UI to analyze CSVs for schema, anomalies, and validation 📑  
 - **Healthcare & Financial Data Ingestion:** Automated ETL for patient records, billing, and financial data → Redshift/DBT + Salesforce 🏥💳  
