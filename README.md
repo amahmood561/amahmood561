@@ -86,7 +86,7 @@ _Last Updated: Sat Jul 18 07:49:05 UTC 2026_
 ## 📫 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
 - 🐦 [Twitter](https://twitter.com/YOURHANDLE)  
-- 🌐 [Website/Blog](https://YOURDOMAIN.com)  
+- 🌐 [Portfolio](https://portfolio-personal.amahmood561.workers.dev/)  
 - ✍️ [Medium](https://medium.com/@amahmood561)  
 
 ---
