@@ -83,11 +83,11 @@ _Last Updated: Sun Jul 19 08:17:39 UTC 2026_
 
 ---
 
-## 📫 Connect
-- 💼 [LinkedIn](https://linkedin.com/in/YOURUSERNAME)  
-- 🐦 [Twitter](https://twitter.com/YOURHANDLE)  
-- 🌐 [Portfolio](https://portfolio-personal.amahmood561.workers.dev/)  
-- ✍️ [Medium](https://medium.com/@amahmood561)  
+## Connect
+
+- [Portfolio](https://portfolio-personal.amahmood561.workers.dev/)
+- [LinkedIn](https://www.linkedin.com/in/asam-mahmood-3713187b/)
+- [Medium](https://medium.com/@amahmood561)
 
 ---
 
