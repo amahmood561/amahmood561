@@ -18,6 +18,10 @@ I transform ideas into scalable products — from **real estate automation** and
 
 ## 🔥 Current Projects
 
+### 🏢 Companies
+- **[Nexo AI Solutions](https://www.nexo-ai-solutions.com)** — AI agents, workflow automation and websites for small businesses in Palm Beach and Broward County. [Pricing](https://www.nexo-ai-solutions.com/pricing/) · [Case study](https://www.nexo-ai-solutions.com/case-studies/construction-office-assistant/)
+- **[DeedScope](https://deed-scope.com)** — every Florida tax deed and foreclosure auction across 39 counties on one calendar, plus surplus-funds and title-research guides per county.
+
 ### 💻 Software / Micro-SaaS
 - **[Extracto](https://github.com/amahmood561/extracto):** Google-Sheets-to-DB ETL ⚡  
 - **[Invoice-Factory](https://github.com/amahmood561/invoice-factory):** PDF invoice generator 🧾  
